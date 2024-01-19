@@ -3,7 +3,7 @@
 
 
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
-const char* phoneNumber = "+48698024271";
+const char* phoneNumber = "MyPhone)";
 const int button_press_level = 10;
 
 bool editting = false;
