@@ -23,6 +23,10 @@
 <p>The Arduino UNO could have been replaced by faster, smaller and with less power consumption microcontroller (Like Raspberry PI Pico), but as soon as I had a nice UI shield, I decided to stick to Arduino.</p>
 <img src="images_ferm/cabels.jpg" width="300"/>
 <p>Fermenter blinking:</p>
+<img src="images_ferm/fermenter.gif" width="300" alt="Nice blinking video"/>
+<p>:</p>
 <img src="images_ferm/blinking.gif" width="300" alt="Nice blinking video"/>
 <p>Fermenter user interface:</p>
 <img src="images_ferm/ui.gif" alt="Nice ui" width="300"/>
+<p>Fermenter in use, making jogurt:</p>
+<img src="images_ferm/fermenting.gif" alt="Nice ui" width="300"/>
